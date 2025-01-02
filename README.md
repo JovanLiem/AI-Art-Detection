@@ -1,7 +1,7 @@
-# 🔧 Deep Learning Project - Group 6
+# 🔧 Computer Vision Project - Group 6
 
 ## Class: LA01
-**Course:** 🌐 Deep Learning 
+**Course:** 🌐 Deep Learning  
 **University:** 🎓 Bina Nusantara University  
 **Major:** 💻 Computer Science 🎓    
 
