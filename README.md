@@ -1,4 +1,4 @@
-# 🔧 Computer Vision Project - Group 6
+# 🔧 Deep Learning Project - Group 6
 
 ## Class: LA01
 **Course:** 🌐 Deep Learning  
