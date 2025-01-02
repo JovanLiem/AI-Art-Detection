@@ -1,4 +1,4 @@
-# 🔧 Deep Learning Project - Group 6
+# 🔧 Deep Learning Project
 
 ## Class: LA01
 **Course:** 🌐 Deep Learning  
