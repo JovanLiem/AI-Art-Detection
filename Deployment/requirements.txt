@@ -1,0 +1,10 @@
+gradio
+torch
+numpy
+xgboost
+tensorflow
+Pillow
+opencv-python
+torchvision
+scikit-image
+transformers
