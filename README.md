@@ -9,6 +9,7 @@
 - **2602058932** - Jovan Amarta Liem  
 - **2602070351** - Jonathan Surya Sanjaya  
 - **2602178911** - Cecillia Tjung  
+- **2602160510** - Tasya Aulianissa
 
 ## 🕹️ Overview
 We created this project to solve the problem of using artificial intelligence (AI) in art, especially art that produced by AI. AI provides many benefits, but if its uncontrolled, it can cause problems such as plagiarism, pirating, and economic loss for the original artist who created the art. 
