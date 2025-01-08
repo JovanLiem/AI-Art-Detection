@@ -76,15 +76,15 @@ The models that we created consists of 5 models, 3 deep learning models, and 2 m
 
 2. 📥 Clone this repository to your local machine:  
    ```bash
-   git clone https://github.com/JonathanSuryaS/AI-Art-Detection-
+   git clone https://github.com/JovanLiem/AI-Art-Detection
 3. 📦 Install the required packages using the following commands:
     ```bash
     pip install -r requirements.txt
 
 4. 👉 Download the model from the given link here:  
-[🔗 Download Model](https://github.com/JonathanSuryaS/AI-Art-Detection-/tree/main/Model)  
+[🔗 Download Model](https://github.com/JovanLiem/AI-Art-Detection/tree/main/Model)  
 Or visit this tutorial to directly implement the model in your Jupyter Notebook:  
-[📖 Model Tutorial](https://github.com/JonathanSuryaS/AI-Art-Detection-/blob/main/Model/DownloadModelTutorial.ipynb)
+[📖 Model Tutorial](https://github.com/JovanLiem/AI-Art-Detection/blob/main/Model/DownloadModelTutorial.ipynb)
 
 5. 🛠️ Ensure the path in `app.py` is fixed according to your system, including the models and testing dataset.
 
