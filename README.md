@@ -76,7 +76,7 @@ The models that we created consists of 5 models, 3 deep learning models, and 2 m
 
 2. 📥 Clone this repository to your local machine:  
    ```bash
-   git clone https://github.com/JovanLiem/AI-Art-Detection
+   git clone https://github.com/JovanLiem/AI-Art-Detection.git
 3. 📦 Install the required packages using the following commands:
     ```bash
     pip install -r requirements.txt
