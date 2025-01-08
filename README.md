@@ -42,25 +42,27 @@ The models that we created consists of 5 models, 3 deep learning models, and 2 m
 ## Previous Experiments
 | **Model**               | **Total Images** | **Accuracy** |
 |-------------------------|------------------|--------------|
-| **XGB + HSV**           | 18000 images     | 62.25%       |
-| **XGB + HSV + Edge**    | 18000 images     | 63.89%       |
-| **XGB + MPEG7**         | 3600 images      | 64.17%       |
-| **RF + HSV**            | 18000 images     | 60.75%       |
-| **RF + HSV + Edge**     | 18000 images     | 62.36%       |
-| **RF + MPEG7**          | 3600 images      | 58.47%       |
-| **Xception**            | 18000 images     | 72.16%       |
-| **ResNet**              | 18000 images     | 72.80%       |
-| **ViT (Vision Transformer)** | 18000 images | 80.80%       |
+| **XGB + HSV**           | 18000 images     | 62,25%       |
+| **XGB + HSV + Edge**    | 18000 images     | 63,89%       |
+| **XGB + MPEG7**         | 3600 images      | 64,17%       |
+| **RF + HSV**            | 18000 images     | 60,75%       |
+| **RF + HSV + Edge**     | 18000 images     | 62,36%       |
+| **RF + MPEG7**          | 3600 images      | 58,47%       |
+| **Xception**            | 18000 images     | 72,16%       |
+| **ResNet**              | 18000 images     | 72,80%       |
+| **ViT (Vision Transformer)** | 18000 images | 80,80%       |
 
 ## Latest
 | **Model**               | **Total Images** | **Accuracy** |
-|--------------------------|------------------|--------------|
+|--------------------------|------------------|-------------|
 | **XGB + HSV**           | 940 images       | 89,36%       |
 | **XGB + HSV + Edge**    | 940 images       | 88,30%       |
 | **XGB + MPEG7**         | 940 images       | 87,23%       |
+| **XGB + EDGE**          | 940 images       | 49,47%       |
 | **RF + HSV**            | 940 images       | 89,36%       |
 | **RF + HSV + Edge**     | 940 images       | 88,30%       |
 | **RF + MPEG7**          | 940 images       | 74,47%       |
+| **RF + EDGE**           | 940 images       | 56,91%       |
 | **Xception**            | 3660 images      | 81%          |
 | **ResNet**              | 3660 images      | 75%          |
 | **ViT (Vision Transformer)** | 3660 images      | 81,14%       |
